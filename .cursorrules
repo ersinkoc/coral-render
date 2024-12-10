@@ -1,0 +1,20 @@
+# Project Rules and Guidelines
+
+## Language and Documentation
+- All code outputs, comments, and documentation must be in English
+- Variable names, function names, and other code identifiers must be in English
+- Commit messages must be in English
+
+## Project Structure and Development
+- All development must strictly follow README.md and PLAN.md guidelines
+- No arbitrary project changes without updating PLAN.md first
+- Any significant changes must be documented in both README.md and PLAN.md
+
+## Additional Guidelines
+- Follow consistent code formatting and style
+- Document all major functions and components
+- Keep the codebase clean and maintainable
+- Regular commits with meaningful commit messages
+- Test coverage for critical functionality
+- Security best practices must be followed
+- Performance optimization considerations
